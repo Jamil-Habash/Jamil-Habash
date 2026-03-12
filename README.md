@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Embedded+Systems+Enthusiast;Interested+in+Hardware+and+AI;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Interested+in+Hardware+and+AI;Always+Learning+New+Things"/>
 
 </div>
 
